@@ -17,6 +17,7 @@
 		A5CF9A5D2432BBA400DDCE27 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5CF9A5C2432BBA400DDCE27 /* Assets.xcassets */; };
 		A5CF9A602432BBA400DDCE27 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5CF9A5F2432BBA400DDCE27 /* Preview Assets.xcassets */; };
 		A5CF9A632432BBA400DDCE27 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5CF9A612432BBA400DDCE27 /* LaunchScreen.storyboard */; };
+		A5E065882435586300688372 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5E065872435586300688372 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		A5CF9A5F2432BBA400DDCE27 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A5CF9A622432BBA400DDCE27 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A5CF9A642432BBA400DDCE27 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A5E065872435586300688372 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				A5CF9A5A2432BBA200DDCE27 /* ContentView.swift */,
 				A5CB6003243402C80019EDDA /* EmojiRating.swift */,
 				A5CF9A5C2432BBA400DDCE27 /* Assets.xcassets */,
+				A5E065872435586300688372 /* DetailView.swift */,
 				A5CF9A612432BBA400DDCE27 /* LaunchScreen.storyboard */,
 				A5CF9A642432BBA400DDCE27 /* Info.plist */,
 				A5CF9A572432BBA200DDCE27 /* Bookworm.xcdatamodeld */,
@@ -159,6 +162,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A5CB6004243402C80019EDDA /* EmojiRating.swift in Sources */,
+				A5E065882435586300688372 /* DetailView.swift in Sources */,
 				A5CF9A542432BBA200DDCE27 /* AppDelegate.swift in Sources */,
 				A5CF9A592432BBA200DDCE27 /* Bookworm.xcdatamodeld in Sources */,
 				A5CF9A5B2432BBA200DDCE27 /* ContentView.swift in Sources */,
